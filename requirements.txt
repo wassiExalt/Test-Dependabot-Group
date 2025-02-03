@@ -49,7 +49,7 @@ Jinja2
 
 kafka-python
 kagglehub==0.3.3
-keras==3.4.1
+keras==3.8.0
 keras-resnet==0.2.0
 kiwisolver==1.4.5
 
@@ -126,10 +126,10 @@ typing_extensions==4.12.2
 tzdata==2024.2
 ultralytics==8.2.68
 ultralytics-thop==2.0.9
-urllib3==2.2.1
+urllib3==2.2.2
 wcwidth==0.2.13
 websocket-client==1.8.0
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 widgetsnbextension==4.0.13
 wrapt==1.16.0
 wsproto==1.2.0
