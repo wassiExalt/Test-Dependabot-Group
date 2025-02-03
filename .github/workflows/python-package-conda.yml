@@ -21,9 +21,11 @@ jobs:
     - name: Create Conda Env
       run: |
         conda create --name myenv python=3.12
-    - name: activate myenv 
+    - name: init conda 
       run: | 
         conda init
+    - name: activate myenv 
+      run: | 
         conda activate myenv
     - name: Install dependencies
       run: |
