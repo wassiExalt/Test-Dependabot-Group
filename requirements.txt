@@ -61,7 +61,7 @@ opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 openvino==2024.2.0
-openvino-dev==2024.2.0
+openvino-dev==2024.6.0
 openvino-telemetry==2024.1.0
 orjson==3.10.6
 packaging==24.1
